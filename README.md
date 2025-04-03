@@ -56,12 +56,11 @@ This is a **simple and efficient file-sharing system** that allows users to crea
 ## 🎨 UI Preview
 
 ### 📌 **Frontend (Download Page)**
-![Download Page - Step 1]([https://your-image-url.com/download-step1.png](https://raw.githubusercontent.com/Rohit-Sangwan/FileSharingWebsite/refs/heads/main/index1.png))
-![Download Page - Step 2]([ttps://your-image-url.com/download-step2.png](https://raw.githubusercontent.com/Rohit-Sangwan/FileSharingWebsite/refs/heads/main/index2.png))
+![Download Page - 1](https://raw.githubusercontent.com/Rohit-Sangwan/FileSharingWebsite/main/index1.png)
+![Download Page - 2](https://raw.githubusercontent.com/Rohit-Sangwan/FileSharingWebsite/main/index2.png)
 
 ### 📌 **Admin Panel**
-![Admin Panel]([https://your-image-url.com/admin-panel.png](https://raw.githubusercontent.com/Rohit-Sangwan/FileSharingWebsite/refs/heads/main/admin.png))
-
+![Admin Panel](https://raw.githubusercontent.com/Rohit-Sangwan/FileSharingWebsite/main/admin.png)
 
 ---
 
