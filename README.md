@@ -56,7 +56,7 @@ This is a **simple and efficient file-sharing system** that allows users to crea
 ## 🎨 UI Preview
 
 ### 📌 **Frontend (Download Page)**
-![Download Page - 1](https://raw.githubusercontent.com/Rohit-Sangwan/FileSharingWebsite/main/index1.png)
+![Download Page - 1](https://raw.githubusercontent.com/Rohit-Sangwan/FileSharingWebsite/main/index1.png) 
 ![Download Page - 2](https://raw.githubusercontent.com/Rohit-Sangwan/FileSharingWebsite/main/index2.png)
 
 ### 📌 **Admin Panel**
